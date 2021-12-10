@@ -53,32 +53,32 @@ button:hover{
     background-color: rgb(73, 72, 72);
 }
 
-#botaoLimpar,
-#botaoInverter,
-#botaoPorcentagem{
+#limpar,
+#inverter,
+#porcentagem{
     color: black;
     background-color: rgb(116, 114, 114);
 }
 
-#botaoLimpar:hover,
-#botaoInverter:hover,
-#botaoPorcentagem:hover{
+#limpar:hover,
+#inverter:hover,
+#porcentagem:hover{
     background-color: rgb(158, 158, 158);
 }
 
-#botaoDividir,
-#botaoMultiplicar,
-#botaoSubtrair,
-#botaoSomar,
-#botaoResultado{
+#operacaoDividir,
+#operacaoMultiplicar,
+#operacaoSubtrair,
+#operacaoSomar,
+#resultado{
     background-color: orange;
 }
 
-#botaoDividir:hover,
-#botaoMultiplicar:hover,
-#botaoSubtrair:hover,
-#botaoSomar:hover,
-#botaoResultado:hover{
+#operacaoDividir:hover,
+#operacaoMultiplicar:hover,
+#operacaoSubtrair:hover,
+#operacaoSomar:hover,
+#resultado:hover{
     background-color: #fdc050;
 }
 
